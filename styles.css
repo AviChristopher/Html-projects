@@ -1,0 +1,57 @@
+body{
+  background: #CAF0F8;
+
+  font-family: 'Merriweather',serif;
+  ;
+  line-height: 1.8;
+
+}
+.form-box{
+  background-color: white;
+  text-align: left;
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 30px 20px;
+ box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+
+}
+
+.title{
+  text-align: center;
+  font-size: 50px;
+}
+
+.submit{
+  background-color: #CAF0F8;
+            border: 1px solid #777;
+            border-radius: 2px;
+            font-family: inherit;
+            font-size: 21px;
+            display: block;
+            width: 100%;
+            margin-top: 50px;
+            margin-bottom: 20px;
+}
+.textarea{
+  padding: 10px;
+  display: block;
+  width: 95%;
+}
+
+#name{
+  padding: 10px;
+            display: block;
+            width: 95%;
+}
+
+#email{padding: 10px;
+            display: block;
+            width: 95%;
+
+}
+
+#number{    padding: 10px;
+            display: block;
+            width: 95%;
+
+}
